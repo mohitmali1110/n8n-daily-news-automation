@@ -79,3 +79,11 @@ Do not upload Telegram bot tokens, API keys, passwords, or other credentials to 
 ## 👨‍💻 Author
 
 Mohit Mali
+
+## Workflow
+
+![n8n Workflow](screenshots/workflow.png)
+
+## Telegram Output
+
+![Telegram Output](screenshots/telegram-message.png)
